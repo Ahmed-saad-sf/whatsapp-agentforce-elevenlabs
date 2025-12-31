@@ -1,0 +1,84 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Credentials and keys
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.jks
+*credentials*.txt
+*credentials*.json
+*_credentials.txt
+*_credentials.json
+whatsapp_config.json
+*config*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Logs
+*.log
+*.log.*
+logs/
+*.log.*
+
+# Test files with credentials
+test_*.py
+*test*.py
+*_test.py
+
+# Deployment logs
+deploy*.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Audio files (may contain sensitive data)
+*.mp3
+*.wav
+*.ogg
+sample_audio.*
+
+# Heroku
+.heroku/
+
+# Google Cloud
+*.json
+!package.json
+!package-lock.json
+
+# AWS
+.aws/
+
+# Salesforce
+.sf/
+.sfdx/
+
