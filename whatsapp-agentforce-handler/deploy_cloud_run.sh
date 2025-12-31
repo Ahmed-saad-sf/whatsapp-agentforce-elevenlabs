@@ -36,7 +36,7 @@ echo ""
 # Build and deploy to Cloud Run
 SERVICE_NAME="whatsapp-agentforce-handler"
 REGION="us-central1"
-PROJECT_ID="ehc-ahmed-saad-6f379c"
+PROJECT_ID="your-google-cloud-project-id"
 
 echo "📦 Building and deploying to Cloud Run..."
 echo ""
