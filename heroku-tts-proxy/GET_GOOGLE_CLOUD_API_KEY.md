@@ -7,7 +7,7 @@ OAuth Client IDs (starting with `GOCSPX-`) are different from **Google Cloud API
 Google Cloud API keys:
 - Start with `AIza` (for REST API keys)
 - Are ~39 characters long
-- Look like: `AIzaSyAbCdEfGhIjKlMnOpQrStUvWxYz1234567`
+- Example format: `AIzaSy...EXAMPLE_KEY...1234567` (replace with your actual key)
 
 ---
 
